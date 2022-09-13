@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning / NLP
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on interesting NLP projects. 
-- 📫 How to reach me ...
+- 📫 How to reach me raghu.nandakumar on LI
 
 <!---
 rxnandakumar/rxnandakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
